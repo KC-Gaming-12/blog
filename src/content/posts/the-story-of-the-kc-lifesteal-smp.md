@@ -29,8 +29,8 @@ The KC Lifesteal SMP does have seasons and we do events at the end of each seaso
 |Names       |                                  Roles|
 | ---------- | ------------------------------------- |
 |KC Gaming 12|                          Owner/Founder|
-|Retr0zzy    |                               Co-Owner|
-|BdogBradyyYT|                           Admin/Tester|
+|BdogBradyyYT|                        Co-Owner/Tester|
+|Retr0zzy    |                           Admin       |
 |Hayston090  |                Bedrock Eddition Tester|
 
 # Contact
