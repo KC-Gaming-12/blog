@@ -1,5 +1,5 @@
 ---
-title: Template
+title: About the KC Lifesteal SMP
 published: 2025-02-11
 tags: [About, KC Lifesteal SMP]
 category: Story
