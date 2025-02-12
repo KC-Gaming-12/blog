@@ -7,7 +7,7 @@ category: Story
 draft: false
 ---
 # Table of Contents
-* [The story behind the KC Lifesteal SMP]()
+* [The story behind the KC Lifesteal SMP](#the-story-behind-the-kc-lifesteal-smp)
   * [How it all began](#how-it-all-began)
   * [Our Plan](#our-plan)
   * [Creaters and helpers](#creaters-and-helpers)
