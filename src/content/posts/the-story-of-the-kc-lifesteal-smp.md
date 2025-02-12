@@ -1,6 +1,6 @@
 ---
 title: Template
-published: 2025-2-11
+published: 2025-02-11
 tags: [About, KC Lifesteal SMP]
 category: Story
 draft: false
