@@ -25,3 +25,6 @@ The plan was to go public and bring a lifesteal server for everyone to enjoy! I 
 * Email: [kcgaming@lifesteal.team](mailto:kcgaming@lifesteal.team)
 * Discord Server: [KC Lifesteal SMP](https://www.lifesteal.team/Discord)
 * Signal: kcgm.12
+
+
+## This page is a W.I.P so expect changes!
