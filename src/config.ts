@@ -52,8 +52,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'https://yt3.googleusercontent.com/tBLC-brCc6V_nZPhf5p8z5IGXJYTbti3yIWUwaqqJWm-Hn9j9QAe1s_wgwSfE3K6KF8ayWUMjSM=s160-c-k-c0x00ffffff-no-rj',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'KC Lifesteal SMP',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  name: 'KC Gaming 12',
+  bio: 'The KC Lifesteal SMP Owner and Developer!',
   links: [
     {
       name: 'Youtube',
