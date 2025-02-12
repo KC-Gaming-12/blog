@@ -26,6 +26,6 @@ The plan was to go public and bring a lifesteal server for everyone to enjoy! I 
 * Discord Server: [KC Lifesteal SMP](https://www.lifesteal.team/Discord)
 * Signal: kcgm.12
 
-::: note
+:::note
 ## This page is a W.I.P so expect changes!
 :::
