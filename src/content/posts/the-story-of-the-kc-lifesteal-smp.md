@@ -6,26 +6,18 @@ tags: [About, KC Lifesteal SMP]
 category: Story
 draft: false
 ---
-# Table of Contents
-* [The story behind the KC Lifesteal SMP](#the-story-behind-the-kc-lifesteal-smp)
-  * [How it all began](#how-it-all-began)
-  * [Our Plan](#our-plan)
-  * [Seasons system](#seasons-system)
-  * [Creaters and helpers](#creaters-and-helpers)
-  * [Contact](#contact)
-
-## The story behind the KC Lifesteal SMP
+# The story behind the KC Lifesteal SMP
 
 ### How it all began
 The KC Lifesteal SMP started when I learned about Minecraft servers, One day I decided to get my friends together to start a minecraft server. The server was origionally on [Aternos](https://aternos.org) but I had a spare computer laying around so I made use of it.
 
-### Our Plan
+## Our Plan
 The plan was to go public and bring a lifesteal server for everyone to enjoy! I was looking on [name.com](https://name.com) for a domain and I found [lifesteal.team](https://www.lifesteal.team). I bought the domain and made play.lifesteal.team, So I got a server set up and ported forward to my domain.
 
-### Seasons system
+## Seasons system
 The KC Lifesteal SMP does have seasons and we do events at the end of each season(Ex. Natural Desasters). Each season lasts about a year. The Minecraft seed will be different for each season so members will have a fresh start!
 
-### Creaters and helpers
+## Creaters and helpers
 |Names       |                                  Roles|
 | ---------- | ------------------------------------- |
 |KC Gaming 12|                          Owner/Founder|
