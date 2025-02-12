@@ -25,7 +25,7 @@ The KC Lifesteal SMP does have seasons and we do events at the end of each seaso
 |Retr0zzy    |                           Admin       |
 |Hayston090  |                Bedrock Eddition Tester|
 
-# Contact
+## Contact
 * Email: [kcgaming@lifesteal.team](mailto:kcgaming@lifesteal.team)
 * Discord Server: [KC Lifesteal SMP](https://www.lifesteal.team/Discord)
 * Signal: kcgm.12
