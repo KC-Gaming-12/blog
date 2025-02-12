@@ -27,5 +27,5 @@ The plan was to go public and bring a lifesteal server for everyone to enjoy! I 
 * Signal: kcgm.12
 
 :::note
-## This page is a W.I.P so expect changes!
+This page is a W.I.P so expect changes!
 :::
