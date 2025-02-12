@@ -1,11 +1,19 @@
 ---
 title: About the KC Lifesteal SMP
 published: 2025-02-11
+updated: 2025-02-12
 tags: [About, KC Lifesteal SMP]
 category: Story
 draft: false
 ---
-# The story behind the KC Lifesteal SMP
+# Table of Contents
+* [The story behind the KC Lifesteal SMP]()
+  * [How it all began](#how-it-all-began)
+  * [Our Plan](#our-plan)
+  * [Creaters and helpers](#creaters-and-helpers)
+  * [Contact](#contact)
+
+## The story behind the KC Lifesteal SMP
 
 ### How it all began
 The KC Lifesteal SMP started when I learned about Minecraft servers, One day I decided to get my friends together to start a minecraft server. The server was origionally on [Aternos](https://aternos.org) but I had a spare computer laying around so I made use of it.
