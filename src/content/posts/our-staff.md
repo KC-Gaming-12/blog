@@ -9,7 +9,7 @@ draft: false
 ## Table of Contents
 * [About the staff](#about-the-staff)
 * [Our roles](#our-roles)
-* [Staff Members & Positions](#staff-members-&-positions)
+* [Staff Members & Positions](#staff-members--positions)
 ### About the staff
 The KC Lifesteal SMP staff are all friends with KC Gaming 12(Me). I hand picked them because I could trust them, and I know they have moderation experience. The staff is willing to help out and should not be bothered unless nessesary! 
 ### Our roles
