@@ -64,7 +64,7 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'Discord',
-      icon: 'fa6-brands:Discord',
+      icon: 'fa6-brands:discord',
       url: 'https://www.lifesteal.team/Discord',
     },
     {
