@@ -1,7 +1,6 @@
 ---
 title: About the KC Lifesteal SMP
 published: 2025-02-11
-image: https://yt3.googleusercontent.com/tBLC-brCc6V_nZPhf5p8z5IGXJYTbti3yIWUwaqqJWm-Hn9j9QAe1s_wgwSfE3K6KF8ayWUMjSM=s160-c-k-c0x00ffffff-no-rj
 tags: [About, KC Lifesteal SMP]
 category: Story
 draft: false
