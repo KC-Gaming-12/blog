@@ -1,3 +1,10 @@
+---
+title: Fission Base News and About
+published: 2025-02-12
+tags: [Moderation, KC Lifesteal SMP]
+category: About Us
+draft: true
+---
 # Fission Base
 Fission Base is a [Roblox](https://roblox.com) game fully programmed in Lua, The game has elements based off of [Half-Life](https://store.steampowered.com/app/70/HalfLife/) and is apart of the Innovation incorporated series.
 ## Game Menu
