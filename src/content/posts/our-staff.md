@@ -24,5 +24,6 @@ The KC Lifesteal SMP staff are all friends with KC Gaming 12(Me). I hand picked 
 |Th3f4ll3nAng3l     |Administrator       |
 |Big_Z999           |Moderator           |
 |ShyFoxBoy          |Moderator           |
+|Toss               |Moderator           |
 |Hayston090         |Moderator           |
 ###### Written by KC Gaming 12
