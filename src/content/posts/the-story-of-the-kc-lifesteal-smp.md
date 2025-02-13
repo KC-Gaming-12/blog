@@ -29,7 +29,3 @@ The KC Lifesteal SMP does have seasons and we do events at the end of each seaso
 * Email: [kcgaming@lifesteal.team](mailto:kcgaming@lifesteal.team)
 * Discord Server: [KC Lifesteal SMP](https://www.lifesteal.team/Discord)
 * Signal: kcgm.12
-
-:::note
-This page is a W.I.P so expect changes!
-:::
