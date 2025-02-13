@@ -1,7 +1,5 @@
 ---
-title: Template
-published: 2025-12-32
-tags: []
-category: Template
-draft: true
+title: Test
+published: 0000-00-00
+draft: false
 ---
