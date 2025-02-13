@@ -44,4 +44,4 @@ The game menu was done fully from scratch by KC Gaming 12(tonugus), and was prob
 |Niko          |Administrator              |
 # News
 Fission Base has been discontinued as of 2024-11-17. The game may be active again some time in the future(Not likely). KC Gaming 12 has started working on other projects such as KCOS on [Roblox](https://roblox.com) and a realistic water dam game. 
-<img src="/public/Screenshot_2025-01-25_5.09.15_PM.png" alt="" width="400">
+<img src="https://github.com/KC-Gaming-12/blog/blob/4c8bd0cd000b8f360af741716bf48333447018ee/public/Screenshot_2025-01-25_5.09.15_PM.png" alt="" width="400">
