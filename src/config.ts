@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: true,
-    src: 'https://www.lifesteal.team/images.jpeg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'https://github.com/KC-Gaming-12/Temp-Kclssmp/blob/a44b5a25d42707134e44a5a293185e5a5e736b14/images.jpeg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: false,         // Display the credit text of the banner image
